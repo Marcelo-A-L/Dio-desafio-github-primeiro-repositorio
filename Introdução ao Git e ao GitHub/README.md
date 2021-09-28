@@ -70,7 +70,7 @@ Em outras palavras, Git é essencial para projetos realizados em equipe, tornand
 
 <br>
 
-<img src="img/git-down.png"></img>
+<img src="Img/git-down.png"></img>
 
 <br>
 
@@ -345,7 +345,7 @@ Em outras palavras, Git é essencial para projetos realizados em equipe, tornand
 
 <br>
 
-1. #### Crie um repositório no GitHub;
+1. #### Crie um repositório no GitHub, clicando na foto do seu perfil e depois em **Your repositories** e depois em **New**;
    
    <br>
 
@@ -365,7 +365,9 @@ Em outras palavras, Git é essencial para projetos realizados em equipe, tornand
    
    <br>
 
-6. #### Com o repositório criado, precisaremos copiar o endereço do repositório. Para isso, basta abrir o repositório criado, clicar em **Code** e copiar o endereço em HTTPS. Como exemplo, o endereço desse repositório: https://github.com/Marcelo-A-L/Dio-desafio-github-primeiro-repositorio.git
+6. #### Com o repositório criado, precisaremos copiar o endereço do repositório. Para isso, basta abrir o repositório criado, clicar em **Code** e copiar o endereço em HTTPS. Como exemplo, o endereço desse repositório:
+   
+   #### https://github.com/Marcelo-A-L/Dio-desafio-github-primeiro-repositorio.git
    
    <br>
 

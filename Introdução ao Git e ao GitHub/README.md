@@ -177,23 +177,23 @@ Em outras palavras, Git é essencial para projetos realizados em equipe, tornand
    
    <br>
    
-   1. #### No canto esquerdo, procure por **SSH and GPG keys**;
+   2. #### No canto esquerdo, procure por **SSH and GPG keys**;
    
    <br>
    
-   1. #### Em SSH keys, clique em **New SSH key**;
+   3. #### Em SSH keys, clique em **New SSH key**;
    
    <br>
    
-   1. #### Adicione um título que tenha algum significado, como por exemplo: "Minha máquina linux";
+   4. #### Adicione um título que tenha algum significado, como por exemplo: "Minha máquina linux";
    
    <br>
    
-   1. #### Cole o conteúdo da chave SSH **PÚBLICA**;
+   5. #### Cole o conteúdo da chave SSH **PÚBLICA**;
    
    <br>
    
-   1. #### Depois de colado, clique em **Add SSH key**.
+   6. #### Depois de colado, clique em **Add SSH key**.
    
    <br>
 
